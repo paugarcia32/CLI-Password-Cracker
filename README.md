@@ -24,7 +24,7 @@ cargo run <sha256 hash>
 
 ## Acknowledgements
 
- - [I've found inpiration on this video](https://youtu.be/Ap1ouptryuQ?si=th20q0YpaXIxAR_b)
+ - [I've found inspiration on this video](https://youtu.be/Ap1ouptryuQ?si=th20q0YpaXIxAR_b)
 
 ## Links
 [![blog](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.itodyssey.dev/)
